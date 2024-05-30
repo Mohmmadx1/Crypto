@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61b55f3f.css",
+    "main.js": "/static/js/main.f57772b0.js",
+    "static/js/787.47fb2afb.chunk.js": "/static/js/787.47fb2afb.chunk.js",
+    "static/media/hero-banner.png": "/static/media/hero-banner.eec598253cec8f46e54f.png",
+    "static/media/ethereum-1-logo-png-transparent.png": "/static/media/ethereum-1-logo-png-transparent.a62c0e55f49cf533072d.png",
+    "static/media/app-banner.png": "/static/media/app-banner.fed6140498fdfd4c4094.png",
+    "static/media/about-banner.png": "/static/media/about-banner.c614244242df1801884f.png",
+    "static/media/Tether_USDT.png": "/static/media/Tether_USDT.c1d587669942a5e9bc47.png",
+    "static/media/Bitcoin-Logo.png": "/static/media/Bitcoin-Logo.f7d50142982510f3d756.png",
+    "static/media/binance-logo.png": "/static/media/binance-logo.ddefc4ca2aabb89b7006.png",
+    "static/media/lose.png": "/static/media/lose.379cd6302f84c6d8945a.png",
+    "static/media/coin-7.svg": "/static/media/coin-7.2829807196f2416f56d3a7806fcd6b47.svg",
+    "static/media/favicon.svg": "/static/media/favicon.cc48541156fa77f72fe38994204fdd0b.svg",
+    "static/media/coin-8.svg": "/static/media/coin-8.7cd1343b234982f6f6ac3a02c4a03aeb.svg",
+    "static/media/coin-5.svg": "/static/media/coin-5.22d74ca138a7e51b2684ee80d3f4fdf7.svg",
+    "static/media/coin-3.svg": "/static/media/coin-3.1b725f56aa5856176e95dc8e07ae29c6.svg",
+    "static/media/coin-4.svg": "/static/media/coin-4.738974f4bf5e9e24f059ab4e7fb582f0.svg",
+    "static/media/coin-6.svg": "/static/media/coin-6.343977be5926b12c1f6a8f0698f88b48.svg",
+    "static/media/coin-2.svg": "/static/media/coin-2.5fe479f8acfd5db3202d065bb4f2b4e4.svg",
+    "index.html": "/index.html",
+    "main.61b55f3f.css.map": "/static/css/main.61b55f3f.css.map",
+    "main.f57772b0.js.map": "/static/js/main.f57772b0.js.map",
+    "787.47fb2afb.chunk.js.map": "/static/js/787.47fb2afb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61b55f3f.css",
+    "static/js/main.f57772b0.js"
+  ]
+}
